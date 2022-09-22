@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dilip19121998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YwgCMQrhvGZ_GVNjiQ0TL1P6etzss4jD/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i8Xvx8QvIRh_KTV0z3btmkt7B4lPBdve/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
