@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 📑 Porfolio [Link](https://dilipkumar-portfolio.netlify.app/)
+- 📑 Porfolio [Link](https://itsmedudes.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
