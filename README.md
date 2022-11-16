@@ -37,4 +37,4 @@
 ![Dilip's GitHub statistics](https://github-readme-stats.vercel.app/api?username=itsmedudes&show_icons=true&theme=chartreuse-dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmedudes&theme=dark" alt="itsmedudes"/></p>
 
-![Dilip's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmedudes&theme=dark)
+![Dilip's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmedudes&theme=react)
