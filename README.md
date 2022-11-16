@@ -33,8 +33,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmedudes&theme=chartreuse-dark)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmedudes&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmedudes&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Streak Graph" />
 
-![Dilip's GitHub statistics](https://github-readme-stats.vercel.app/api?username=itsmedudes&show_icons=true&theme=chartreuse-dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmedudes&theme=dark" alt="itsmedudes"/></p>
+</div>
 
 ![Dilip's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmedudes&theme=react)
