@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilip Kumar</h1>
 <h3 text align="center">A passionate developer, exploring the More Languages</h3>
+<br/>
 <img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **AWS, Android**
