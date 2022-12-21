@@ -55,5 +55,5 @@
 <a href="https://www.youtube.com/c/androidbate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="androidbate" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/itsmedudes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsmedudes" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/itsmedudes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fw18_0373" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dilip1912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dilip1912" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itsmedude/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dilip1912" height="30" width="40" /></a>
 </p>
