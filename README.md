@@ -44,7 +44,7 @@
 
 </div>
 
-![Dilip's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmedudes&theme=react)
+<!-- ![Dilip's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmedudes&theme=react) -->
 
 <hr/>
 <h3 align="center">Connect with me:</h3>
