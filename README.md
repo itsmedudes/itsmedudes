@@ -41,10 +41,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmedudes&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmedudes&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Streak Graph" />
-
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsmedudes&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://visitcount.itsvg.in/api?id=itsmedudes&icon=0&color=12" alt="Visitors Count" />
 </div>
 
-<!-- ![Dilip's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmedudes&theme=react) -->
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsmedudes&theme=tokyo-night)
+[![Visitors Count](https://visitcount.itsvg.in/api?id=itsmedudes&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
 <hr/>
 <h3 align="center">Connect with me:</h3>
