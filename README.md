@@ -1,37 +1,33 @@
-<h1  align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, I'm <span style="color: #447ED5">Dilip Kumar</span><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="33">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, I'm <span style="color: #447ED5">Dilip Kumar</span><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="33">
  </h1>
  
-<h3 text align="center">A passionate developer, exploring the More Languages</h3>
+<h3 align="center">A passionate developer with expertise in Full Stack Development</h3>
 <br/>
-<img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **AWS, Android**
+- 💬 Ask me about **Java, Spring Boot, PHP, Laravel, MySQL, CodeIgniter**
+- 📫 How to reach me: **dilip19121998@gmail.com**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1MXUs5a_q1Hy8Gkp2CwntKOkIeQ3XBcr3/view?usp=share_link)
+- ⚡ Fun fact: **I am Funny**
+- 📑 Portfolio: [Link](https://itsmedudes.github.io/)
 
-- 💬 Ask me about **JAVA, Spring Boot, SQL**
+<hr/>
 
-- 📫 How to reach me **dilip19121998@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MXUs5a_q1Hy8Gkp2CwntKOkIeQ3XBcr3/view?usp=share_link)
-
-- ⚡ Fun fact **I am Funny**
-
-- 📑 Porfolio [Link](https://itsmedudes.github.io/)
- <br/>
- <br/>
- <hr/>
- <h3 align="center">💻 Skills ⤵</h3>
+<h3 align="center">💻 Skills ⤵</h3>
 
 <p align="center">
   <a href="https://skillicons.dev" align="center">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,java,spring,maven,hibernate,mysql&theme=light"
+      src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,java,spring,maven,hibernate,mysql,php,laravel,codeigniter&theme=light"
       alt="My Skills"
     />
   </a>
 </p>
- <hr/>
- 
- <h3 align="center">My GitHub Stats</h3>
+
+<hr/>
+
+<h3 align="center">My GitHub Stats</h3>
 <div align="center"> 
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmedudes&theme=chartreuse-dark)
@@ -45,10 +41,8 @@
   <img src="https://visitcount.itsvg.in/api?id=itsmedudes&icon=0&color=12" alt="Visitors Count" />
 </div>
 
-<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsmedudes&theme=tokyo-night)
-[![Visitors Count](https://visitcount.itsvg.in/api?id=itsmedudes&icon=0&color=12)](https://visitcount.itsvg.in) -->
-
 <hr/>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/dilip19121998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilip19121998" height="30" width="40" /></a>
